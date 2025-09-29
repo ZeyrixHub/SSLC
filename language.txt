@@ -43,9 +43,9 @@ Z = ++#
 
 RULES:
 
-After **1 full number** like 100, u Need to Always type a "!"
+After 1 full number like 100, u Need to Always type a "!"
 
-After **1 letter** u Need to type a "."
+After 1 letter u Need to type a "."
 
 
 
@@ -62,3 +62,4 @@ Idk
 
 What is the Name of this secre thingi?
 I call it "SSLC" and it means: Secret Simple Language Code
+
