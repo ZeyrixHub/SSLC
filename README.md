@@ -1,2 +1,64 @@
-# SSLC
-SSLC = Secret Simple Language Code
+**Secret Simple Language Code** 
+Translation and more!
+
+A = ///
+B = //
+C = /
+D = -/
+E = --/
+F = ---/
+G = +/
+H = ++/
+I = +++/
+
+J = ___
+K = __
+L = _
+M = -_
+N = --_
+O = ---_
+P = +_
+Q = ++_
+R = +++_
+
+S = ###
+T = ##
+U = #
+V = -#
+W = --#
+X = ---#
+Y = +#
+Z = ++#
+
+0 = $
+1 = *
+2 = **
+3 = ***
+4 = -*
+5 = --*
+6 = ---*
+7 = +*
+8 = ++*
+9 = +++*
+
+**__RULES:__**
+
+After **1 full number** like 100, u Need to Always type a "!"
+
+After **1 letter** u Need to type a "."
+
+
+
+**__Q&A:__**
+
+**How to make a space?**
+You can make a space by using "^"
+
+**Why did i Chose "^" ?**
+bc it is easy to type on a Keyboard!
+
+**Why did i made this secret Thing?**
+Idk
+
+**What is the Name of this secre thingi?**
+I call it "SSLC" and it means: Secret Simple Language Code
